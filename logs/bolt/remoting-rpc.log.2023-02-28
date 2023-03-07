@@ -1,0 +1,6 @@
+2023-02-28 14:15:23,533 WARN  [RpcServer#1010] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2023-02-28 14:20:41,779 WARN  [RpcServer#401] [SpringContextShutdownHook] Close all connections from server side!
+2023-02-28 14:20:41,779 WARN  [RpcServer#408] [SpringContextShutdownHook] Rpc Server stopped!
+2023-02-28 14:24:38,872 WARN  [RpcServer#1010] [main] [server side] bolt netty low water mark is 32768 bytes, high water mark is 65536 bytes
+2023-02-28 15:11:54,760 WARN  [RpcServer#401] [SpringContextShutdownHook] Close all connections from server side!
+2023-02-28 15:11:54,764 WARN  [RpcServer#408] [SpringContextShutdownHook] Rpc Server stopped!

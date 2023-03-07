@@ -1,0 +1,63 @@
+2023-03-07 09:34:30,980 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 09:34:31,639 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 10:26:31,606 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 10:26:32,162 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 10:31:45,189 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 10:31:45,839 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 10:42:57,066 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 10:42:57,068 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-3] Close the connection to remote address=192.168.0.11:64148, result=true, cause=null
+2023-03-07 10:42:57,068 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-3] Remove and close a standalone connection.
+2023-03-07 10:43:03,803 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 10:43:04,424 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 10:54:56,018 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-5] Close the connection to remote address=192.168.0.14:64473, result=true, cause=null
+2023-03-07 10:54:56,018 WARN  [DefaultConnectionManager#332] [Rpc-netty-server-worker-1-thread-5] Remove and close the last connection in ConnectionPool with poolKey 192.168.0.14:64473
+2023-03-07 10:55:11,508 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-6] Close the connection to remote address=192.168.0.14:64475, result=true, cause=null
+2023-03-07 10:55:11,508 WARN  [DefaultConnectionManager#332] [Rpc-netty-server-worker-1-thread-6] Remove and close the last connection in ConnectionPool with poolKey 192.168.0.14:64475
+2023-03-07 10:56:07,688 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 10:56:07,688 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-4] Close the connection to remote address=192.168.0.11:64150, result=true, cause=null
+2023-03-07 10:56:07,688 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-4] Remove and close a standalone connection.
+2023-03-07 10:56:12,033 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 10:56:12,619 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 11:02:34,017 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=192.168.0.11:64152, result=true, cause=null
+2023-03-07 11:02:34,018 WARN  [DefaultConnectionManager#332] [Rpc-netty-server-worker-1-thread-1] Remove and close the last connection in ConnectionPool with poolKey 192.168.0.11:64152
+2023-03-07 13:00:55,194 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 13:00:55,195 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-2] Close the connection to remote address=192.168.0.11:62006, result=true, cause=null
+2023-03-07 13:00:55,195 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-2] Remove and close a standalone connection.
+2023-03-07 13:00:59,387 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 13:00:59,957 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 13:24:27,226 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 13:24:27,860 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 13:24:47,917 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 13:24:47,917 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=192.168.0.11:56374, result=true, cause=null
+2023-03-07 13:24:47,917 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-1] Remove and close a standalone connection.
+2023-03-07 13:26:11,040 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 13:26:11,587 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 13:35:42,279 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 13:35:42,284 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=192.168.0.11:59180, result=true, cause=null
+2023-03-07 13:35:42,284 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-1] Remove and close a standalone connection.
+2023-03-07 13:56:26,015 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 13:56:26,610 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 13:56:50,001 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 13:56:50,001 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=192.168.0.11:54698, result=true, cause=null
+2023-03-07 14:19:46,442 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 14:19:46,951 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 14:21:32,486 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 14:21:33,062 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 14:24:27,429 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 14:24:27,987 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 14:25:13,057 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 14:25:13,057 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=10.8.4.93:63327, result=true, cause=null
+2023-03-07 14:25:18,637 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 14:25:19,154 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 15:35:54,937 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 15:35:55,499 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 15:41:24,748 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 15:41:24,750 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-6] Close the connection to remote address=192.168.0.11:64294, result=true, cause=null
+2023-03-07 15:41:24,750 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-6] Remove and close a standalone connection.
+2023-03-07 15:41:35,689 WARN  [AbstractRemotingServer#99] [main] Prepare to start server on port 8802 
+2023-03-07 15:41:36,249 WARN  [AbstractRemotingServer#101] [main] Server started on port 8802
+2023-03-07 15:49:40,427 WARN  [DefaultConnectionManager#216] [SpringContextShutdownHook] All connection pool and connections have been removed!
+2023-03-07 15:49:40,428 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-1] Close the connection to remote address=192.168.0.11:64296, result=true, cause=null
+2023-03-07 15:49:40,428 INFO  [Connection$1#309] [Rpc-netty-server-worker-1-thread-5] Close the connection to remote address=192.168.0.10:65373, result=true, cause=null
+2023-03-07 15:49:40,429 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-1] Remove and close a standalone connection.
+2023-03-07 15:49:40,429 WARN  [DefaultConnectionManager#327] [Rpc-netty-server-worker-1-thread-5] Remove and close a standalone connection.
